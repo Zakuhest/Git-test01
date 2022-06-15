@@ -5,3 +5,6 @@ alt+flecha -> mover líneas de código
 shift+alt+flecha -> duplicar código
 control+, -> comentar y descomentar en línea
 control+. -> comentar y descomentar en bloque
+
+enlace Emmet Html -> https://coderslink.com/talento/blog/ahorra-tiempo
+-al-escribir-codigo-html-en-visual-studio-code-utilizando-emmet/

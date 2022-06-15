@@ -14,3 +14,4 @@ Salida de Vim -> :wq | Insertar en Vim: tecla "i"
 git branch (ver ramas y ubicacion)
 git branch "nombre de rama" (crear rama)
 git checkout "nombre de rama" | git branch -M "nombre de rama" (ubicarse en tal rama)
+git clone "url del repositorio en github"
